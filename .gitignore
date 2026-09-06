@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs / benchmark outputs
+*.log
+*.csv
+current_frame.txt
+
+# Local media / large test files
+*.mp4
+*.avi
+*.mov
