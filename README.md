@@ -128,4 +128,4 @@ The current implementation is designed for Windows because it uses PyWin32 for w
 
 ## Author
 
-Tidarut Doosaard
+Tidarut Doo-saard
